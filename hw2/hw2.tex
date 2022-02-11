@@ -1,0 +1,110 @@
+\documentclass[9pt,twocolumn,twoside,]{pnas-new}
+
+% Use the lineno option to display guide line numbers if required.
+% Note that the use of elements such as single-column equations
+% may affect the guide line number alignment.
+
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+% tightlist command for lists without linebreak
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+
+\templatetype{pnasmathematics}  % Choose template
+
+\title{Understanding Policy Change: How to Apply Political Economy
+Concepts in Practice}
+
+\author[]{Carlos Enrique Lezama Jacinto}
+
+  \affil[]{Instituto Tecnológico Autónomo de México}
+
+
+% Please give the surname of the lead author for the running footer
+\leadauthor{}
+
+% Please add here a significance statement to explain the relevance of your work
+\significancestatement{}
+
+
+\authorcontributions{}
+
+
+
+\correspondingauthor{\textsuperscript{} One-pager written for the
+research seminar on institutional economics. E-mail:
+\href{mailto:clezamaj@itam.mx}{\nolinkurl{clezamaj@itam.mx}}.}
+
+% Keywords are not mandatory, but authors are strongly encouraged to provide them. If provided, please include two to five keywords, separated by the pipe symbol, e.g:
+
+
+\begin{abstract}
+
+\end{abstract}
+
+\dates{This manuscript was compiled on \today}
+\doi{\url{www.pnas.org/cgi/doi/10.1073/pnas.XXXXXXXXXX}}
+
+\begin{document}
+
+% Optional adjustment to line up main text (after abstract) of first page with line numbers, when using both lineno and twocolumn options.
+% You should only change this length when you've finalised the article contents.
+\verticaladjustment{-2pt}
+
+
+
+\maketitle
+\thispagestyle{firststyle}
+\ifthenelse{\boolean{shortarticle}}{\ifthenelse{\boolean{singlecolumn}}{\abscontentformatted}{\abscontent}}{}
+
+% If your first paragraph (i.e. with the \dropcap) contains a list environment (quote, quotation, theorem, definition, enumerate, itemize...), the line after the list may have some extra indentation. If this is the case, add \parshape=0 to the end of the list environment.
+
+\acknow{}
+
+\hypertarget{research-question-tested-hypothesis-main-argument}{%
+\section*{Research Question / Tested Hypothesis / Main
+Argument}\label{research-question-tested-hypothesis-main-argument}}
+\addcontentsline{toc}{section}{Research Question / Tested Hypothesis /
+Main Argument}
+
+Text.
+
+\hypertarget{model-assumptions}{%
+\section*{Model / Assumptions}\label{model-assumptions}}
+\addcontentsline{toc}{section}{Model / Assumptions}
+
+Proposed model / Necessary assumptions.
+
+\hypertarget{methodology}{%
+\section*{Methodology}\label{methodology}}
+\addcontentsline{toc}{section}{Methodology}
+
+Text.
+
+\hypertarget{data}{%
+\section*{Data}\label{data}}
+\addcontentsline{toc}{section}{Data}
+
+Overview of the data used.
+
+\hypertarget{data-inventory}{%
+\section*{Data Inventory}\label{data-inventory}}
+\addcontentsline{toc}{section}{Data Inventory}
+
+Data inventory to replicate the study in another context.
+
+\showmatmethods
+\showacknow
+\pnasbreak
+
+
+
+% Bibliography
+% \bibliography{pnas-sample}
+
+\end{document}
