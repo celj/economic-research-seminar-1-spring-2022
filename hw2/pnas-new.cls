@@ -34,7 +34,7 @@
 
 %% Fonts and language
 \RequirePackage[utf8]{inputenc}
-\RequirePackage[spanish]{babel}
+\RequirePackage[british]{babel}
 \RequirePackage{amsmath,amsfonts,amssymb}
 \RequirePackage{lmodern}
 \RequirePackage[scaled]{helvet}
@@ -207,7 +207,7 @@
 \pagestyle{fancy}          % Enables the custom headers/footers
 
 \fancypagestyle{firststyle}{
-   \fancyfoot[R]{\footerfont\textbf{\today}\hspace{7pt}|\hspace{7pt}\textbf{\thepage}}
+   \fancyfoot[R]{\footerfont\textbf{Last compiled on the \today}\hspace{7pt}|\hspace{7pt}\textbf{\thepage}}
    \fancyfoot[L]{\footerfont\@ifundefined{}{\url{https://github.com/celj/economic-research-seminar-spring-2022}}{\url{https://github.com/celj/economic-research-seminar-spring-2022}}}
 }
 
@@ -330,7 +330,7 @@ THE ABSTRACT\vskip12pt}\let\go\relax\fi
     \vskip10pt% 21pts between base of title and base of author line
     {\raggedright \@author\par}
     \vskip8pt% 16pts between base of affiliations and base of dates line 
-    {\raggedright \datesfont \@ifundefined{}{}{Este manuscrito fue compilado el \today}\par}
+    {\raggedright \datesfont \@ifundefined{}{}{Last compiled on the \today}\par}
     \vskip12pt%
     }}
   {% else
