@@ -6,7 +6,7 @@
 
 ### Research Question / Tested Hypothesis / Main Argument
 
-Political economy: what it is and what it is not. Political economy tries to explain multiple results in terms of economic development through the identification of the agents' incentives and the context in which they make decisions and interact strategically. It also considers the government decisions and the economic-political environment to show how they are responsible for some interactions between multiple economic agents.
+Political economy: what it is and what it is not. Political economy tries to explain multiple results in terms of economic development through the identification of the agents’ incentives and the context in which they make decisions and interact strategically. It also considers the government decisions and the economic-political environment to show how they are responsible for some interactions between multiple economic agents.
 
 Political economy combines these two approaches and asks bidirectional questions:
 

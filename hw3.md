@@ -10,7 +10,7 @@ This part analyzes the nature of the institutions and how they affect the perfor
 
 #### Model / Assumptions
 
-The model focuses on how individuals make decisions (microeconomics approach). The author does not rely on traditional behavior assumptions and searches for initial motivations on economic agents' decisions. Therefore, our "initial" opportunity set plays a more relevant role than scarcity. If economies realize the gains from trade by creating relatively efficient institutions, it is because under certain circumstances the private objectives of those with the bargaining strength to alter institutions produce institutional solutions that turn out to be or evolve into socially efficient ones.
+The model focuses on how individuals make decisions (microeconomics approach). The author does not rely on traditional behavior assumptions and searches for initial motivations on economic agents' decisions. Therefore, our “initial” opportunity set plays a more relevant role than scarcity. If economies realize the gains from trade by creating relatively efficient institutions, it is because under certain circumstances the private objectives of those with the bargaining strength to alter institutions produce institutional solutions that turn out to be or evolve into socially efficient ones.
 
 #### Methodology
 
