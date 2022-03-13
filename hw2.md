@@ -1,25 +1,10 @@
----
-title: "Understanding Policy Change: How to Apply Political Economy Concepts in Practice"
+# Understanding Policy Change: How to Apply Political Economy Concepts in Practice
 
-author:
-  - name: Carlos Enrique Lezama Jacinto
-address:
-  - address: Instituto Tecnológico Autónomo de México
+###### Instituto Tecnológico Autónomo de México
 
-corresponding_author:
-  text: "One-pager written for the research seminar on institutional economics. E-mail: [clezamaj@itam.mx](mailto:clezamaj@itam.mx)."
+###### Carlos Lezama [^\*]
 
-pnas_type: pnasmathematics
-
-bibliography: pnas-sample.bib
-csl: pnas.csl
-
-lineno: false
-
-output: rticles::pnas_article
----
-
-# Research Question / Tested Hypothesis / Main Argument {-}
+### Research Question / Tested Hypothesis / Main Argument
 
 Political economy: what it is and what it is not. Political economy tries to explain multiple results in terms of economic development through the identification of the agents' incentives and the context in which they make decisions and interact strategically. It also considers the government decisions and the economic-political environment to show how they are responsible for some interactions between multiple economic agents.
 
@@ -28,23 +13,20 @@ Political economy combines these two approaches and asks bidirectional questions
 - How do political factors and institutions affect development outcomes?
 - How do economic factors and institutions related to development affect political outcomes?
 
-# Model / Assumptions {-}
+#### Model / Assumptions
 
 N.A.
 
-# Methodology {-}
+#### Methodology
 
 First, they choose to define what political economy is and what it is not. Then, examples of how to understand the world through the lens of political economy on important targets such as interest rates, decentralization, and public financial management. Finally, they present empirical constraints and limitations on political-economy analysis.
 
-# Data {-}
+#### Data
 
 Plots attempt to compare public spending versus outcomes in health and education. Spending is measured as total annual public spending for education on each primary-school-age child, in 1995 U.S. dollars, averaged for two decades: the 1980s and the 1990s. For the health graphs, the data show total annual per capita public spending on health, in 1995 U.S. dollars, averaged for two decades: the 1980s and the 1990s. The data was obtained from the World Bank database.
 
-# Data Inventory {-}
+#### Data Inventory
 
 Although the data may be downloaded from the World Bank database for the analyzed countries and years, they do not show statistical rigor or replicable methods.
 
-<!-- Leave these lines as they are at the end of your .Rmd file to ensure placement of methods & acknowledgements sections before the references-->
-\showmatmethods
-\showacknow
-\pnasbreak
+[^\*]: One-pager written for the research seminar on institutional economics. E-mail: [clezamaj@itam.mx](mailto:clezamaj@itam.mx).
