@@ -27,6 +27,6 @@ Plots attempt to compare public spending versus outcomes in health and education
 
 #### Data Inventory
 
-Although the data may be downloaded from the World Bank database for the analyzed countries and years, they do not show statistical rigor or replicable methods.
+Although the data may be downloaded from the World Bank database for the analysed countries and years, they do not show statistical rigour or replicable methods.
 
 [^\*]: One-pager written for the research seminar on institutional economics. E-mail: [clezamaj@itam.mx](mailto:clezamaj@itam.mx).
