@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.30)  19 MAY 2022 11:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.30)  19 MAY 2022 12:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1165,12 +1165,6 @@ pdftex.map}] (out.toc) [2
 
 ] [11
 
-] [12
-
-] [13
-
-] [14
-
 ]
 \tf@nav=\write5
 \openout5 = `out.nav'.
@@ -1183,10 +1177,10 @@ pdftex.map}] (out.toc) [2
 
 (out.aux) ) 
 Here is how much of TeX's memory you used:
- 24196 strings out of 478578
- 482746 string characters out of 2840891
+ 24173 strings out of 478578
+ 482583 string characters out of 2840891
  751495 words of memory out of 3000000
- 41823 multiletter control sequences out of 15000+600000
+ 41805 multiletter control sequences out of 15000+600000
  499395 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,13n,122p,1002b,425s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1194,9 +1188,9 @@ Here is how much of TeX's memory you used:
 lm/lm-ec.enc}</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pu
 blic/lm/lmss10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/ty
 pe1/public/lm/lmssbx10.pfb>
-Output written on out.pdf (14 pages, 70018 bytes).
+Output written on out.pdf (11 pages, 64597 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
- 18523 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 112 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
+ 18499 words of extra memory for PDF output out of 20736 (max. 10000000)
 

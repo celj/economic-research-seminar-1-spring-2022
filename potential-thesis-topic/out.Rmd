@@ -16,11 +16,13 @@ output:
     toc: true
 ---
 
-# Pregunta de investigación
+# Motivación
+
+## Pregunta de investigación
 
 Texto.
 
-# Hipótesis
+## Hipótesis
 
 Texto.
 
@@ -28,11 +30,11 @@ Texto.
 
 Texto.
 
-# Metodología
+## Metodología
 
 Texto.
 
-# Datos
+## Datos
 
 Texto.
 
