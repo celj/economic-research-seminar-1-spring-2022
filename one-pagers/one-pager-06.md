@@ -6,11 +6,11 @@
 
 ### Research Question / Tested Hypothesis / Main Argument
 
-N.A.
+Countries ruled by a common law reach greater protection on investment compared to those under French, German or Scandinavian law.
 
 #### Model / Assumptions
 
-N.A.
+Authors examine how investor protection laws differ across countries, how enforcement effectiveness differs, and finally, whether these differences matter or not for different patterns of corporate ownership around the world.
 
 #### Methodology
 
