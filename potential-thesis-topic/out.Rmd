@@ -7,7 +7,7 @@ author: |
 date: 'Primavera 2022'
 output:
   beamer_presentation:
-    colortheme: 'crane'
+    colortheme: 'seahorse'
     fonttheme: 'structurebold'
     includes:
       in_header: 'macros.tex'
