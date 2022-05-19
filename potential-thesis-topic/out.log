@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.30)  18 MAY 2022 21:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.30)  18 MAY 2022 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -879,11 +879,20 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerthem
-ePittsburgh.sty
+eRochester.sty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beameroute
+rthemesidebar.sty
+\beamer@sidebarwidth=\dimen296
+\beamer@headheight=\dimen297
+)
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerinne
-rthemecircles.sty))
+rthemerectangles.sty)
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamercolo
-rthemeseagull.sty)
+rthemewhale.sty)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamercolo
+rthemeorchid.sty))
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamercolo
+rthemecrane.sty)
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer/beamerfont
 themestructurebold.sty)
 (/Users/carlos/Library/Application Support/MiKTeX/texmfs/install/tex/latex/upqu
@@ -901,7 +910,7 @@ LaTeX Info: Redefining \noprotrusionifhmode on input line 1027.
 LaTeX Info: Redefining \leftprotrusion on input line 1028.
 LaTeX Info: Redefining \rightprotrusion on input line 1036.
 LaTeX Info: Redefining \textls on input line 1195.
-\MT@outer@kern=\dimen296
+\MT@outer@kern=\dimen298
 LaTeX Info: Redefining \textmicrotypecontext on input line 1781.
 \MT@listname@count=\count343
 
@@ -1001,13 +1010,13 @@ LaTeX Font Info:    ... okay on input line 102.
 pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count346
-\scratchdimen=\dimen297
+\scratchdimen=\dimen299
 \scratchbox=\box78
 \nofMPsegments=\count347
 \nofMParguments=\count348
 \everyMPshowfont=\toks48
 \MPscratchCnt=\count349
-\MPscratchDim=\dimen298
+\MPscratchDim=\dimen300
 \MPnumerator=\count350
 \makeMPintoPDFobject=\count351
 \everyMPtoPDFconversion=\toks49
@@ -1174,18 +1183,18 @@ pdftex.map}] (out.toc) [2
 
 (out.aux) ) 
 Here is how much of TeX's memory you used:
- 24117 strings out of 478578
- 479078 string characters out of 2840891
- 751291 words of memory out of 3000000
- 41754 multiletter control sequences out of 15000+600000
- 496611 words of font info for 57 fonts, out of 8000000 for 9000
+ 24198 strings out of 478578
+ 482717 string characters out of 2840891
+ 751596 words of memory out of 3000000
+ 41825 multiletter control sequences out of 15000+600000
+ 499395 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,11n,122p,1002b,608s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 128i,13n,122p,1002b,429s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/
 lm/lm-ec.enc}</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pu
 blic/lm/lmss10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/ty
 pe1/public/lm/lmssbx10.pfb>
-Output written on out.pdf (14 pages, 69436 bytes).
+Output written on out.pdf (14 pages, 70722 bytes).
 PDF statistics:
  143 PDF objects out of 1000 (max. 8388607)
  35 named destinations out of 1000 (max. 500000)

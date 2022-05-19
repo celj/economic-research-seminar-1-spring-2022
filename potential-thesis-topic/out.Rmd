@@ -7,12 +7,12 @@ author: |
 date: 'Primavera 2022'
 output:
   beamer_presentation:
-    colortheme: 'seagull'
+    colortheme: 'crane'
     fonttheme: 'structurebold'
     includes:
       in_header: 'macros.tex'
     slide_level: 2
-    theme: 'Pittsburgh'
+    theme: 'Rochester'
     toc: true
 ---
 
