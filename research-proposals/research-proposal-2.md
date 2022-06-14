@@ -16,7 +16,7 @@ Based on game theory, we can handle multiple a priori beliefs that can affect th
 
 #### Methodology
 
-Statistical learning models based on Bayesian methods will be needed in aid of comparing a posteriori simulated data with real data from next period. Non parametric methods will keep track on unbiasedness and autocorrelation issues. Getting more specific, numerical methods like Metropolis–Hastings algorithm and Differences-in-Differences models will help.
+Statistical learning models based on Bayesian methods will be needed in aid of comparing a posteriori simulated data with real data from next period. Non-parametric methods will keep track on unbiasedness and autocorrelation issues. Getting more specific, numerical methods like Metropolis–Hastings algorithm and Differences-in-Differences models will help.
 
 #### Data
 

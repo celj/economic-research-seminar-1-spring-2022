@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.30)  19 MAY 2022 12:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.30)  8 JUN 2022 18:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1145,25 +1145,70 @@ Package microtype Info: Loading generic protrusion settings for font family
 (out.nav) [1
 
 {/Users/carlos/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/
-pdftex.map}] (out.toc) [2
+pdftex.map}] [2
 
 ] [3
 
-] [4
+]
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
+150.
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ot1lmss.fd
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+50.
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+150.
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+150.
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 150.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 150.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 150.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 150
+.
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msa.
+cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 150
+.
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msb.
+cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 150.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 150.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 150.
+[4
 
 ] [5
 
 ] [6
-
-] [7
-
-] [8
-
-] [9
-
-] [10
-
-] [11
 
 ]
 \tf@nav=\write5
@@ -1177,20 +1222,28 @@ pdftex.map}] (out.toc) [2
 
 (out.aux) ) 
 Here is how much of TeX's memory you used:
- 24173 strings out of 478578
- 482583 string characters out of 2840891
- 751495 words of memory out of 3000000
- 41805 multiletter control sequences out of 15000+600000
- 499395 words of font info for 58 fonts, out of 8000000 for 9000
+ 24348 strings out of 478578
+ 486787 string characters out of 2840891
+ 753793 words of memory out of 3000000
+ 41921 multiletter control sequences out of 15000+600000
+ 521006 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,13n,122p,1002b,425s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 128i,13n,122p,1002b,436s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/
-lm/lm-ec.enc}</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pu
-blic/lm/lmss10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/ty
-pe1/public/lm/lmssbx10.pfb>
-Output written on out.pdf (11 pages, 64597 bytes).
+lm/lm-ec.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvip
+s/lm/lm-mathsy.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/en
+c/dvips/lm/lm-mathit.enc}{/Library/Application Support/MiKTeX/texmfs/install/fo
+nts/enc/dvips/lm/lm-rm.enc}</Library/Application Support/MiKTeX/texmfs/install/
+fonts/type1/public/lm/lmmi10.pfb></Library/Application Support/MiKTeX/texmfs/in
+stall/fonts/type1/public/lm/lmss10.pfb></Library/Application Support/MiKTeX/tex
+mfs/install/fonts/type1/public/lm/lmss8.pfb></Library/Application Support/MiKTe
+X/texmfs/install/fonts/type1/public/lm/lmssbx10.pfb></Library/Application Suppo
+rt/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsso10.pfb></Library/Applicatio
+n Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsso8.pfb></Library/Appl
+ication Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy8.pfb>
+Output written on out.pdf (6 pages, 121544 bytes).
 PDF statistics:
- 112 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
- 18499 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 96 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
+ 30763 words of extra memory for PDF output out of 35830 (max. 10000000)
 

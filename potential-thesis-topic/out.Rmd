@@ -1,5 +1,5 @@
 ---
-title: 'Estrategias de comunicación de los bancos centrales y su influencia en las perspectivas de inflación'
+title: 'Estrategias de comunicación de los bancos centrales y su influencia en las predicciones de la tasa de interés interbancaria'
 author: |
   | Carlos Lezama
   | Seminario de Investigación Económica
@@ -13,32 +13,51 @@ output:
       in_header: 'macros.tex'
     slide_level: 2
     theme: 'Rochester'
-    toc: true
+    toc: false
 ---
 
-# Motivación
+## Motivación
+
+En las últimas dos décadas, los bancos centrales han experimentado un cambio de paradigma: del silencio absoluto --- para sorprender a los participantes del mercado --- a aumentar la transparencia y la rendición de cuentas sobre sus acciones, estrategias y objetivos, tanto a nivel institucional, como individual.
 
 ## Pregunta de investigación
 
-Texto.
+- ¿Ha ayudado la comunicación de los bancos centrales al público a comprender las acciones y reacciones de los primeros?
+- ¿Cuáles son las características deseadas en la comunicación de los bancos centrales? ¿Cómo podemos medirlas?
+- ¿Cómo se benefician la autoridad de política monetaria y los participantes del mercado al mejorar las estrategias de comunicación de los bancos centrales?
 
-## Hipótesis
+## Modelo
 
-Texto.
+Regla de Taylor:
 
-# Modelo
+$$
+\Delta i_t = \alpha + \beta \hat{\pi}_{t - 1} + \gamma \hat{y}_{t - 1} + \delta w^{\prime}_{t - 1} + \varepsilon_t,
+$$
 
-Texto.
+- $\Delta i_t$ --- diferencia con la tasa objetivo
+- $\hat{\pi}_{t - 1}$ --- brecha inflacionaria
+- $\hat{y}_{t - 1}$ --- brecha del producto
+- $w^{\prime}_{t - 1}$ --- índice Hawkish-Dovish
 
 ## Metodología
 
-Texto.
+1. Análisis cualitativo e histórico
+  - ¿Cómo han evolucionado las estrategias de comunicación de los bancos centrales?
+2. Minería de textos
+  - Medidas de longitud (oraciones, palabras, signos de puntuación, etc.)
+  - Medidas de facilidad de lectura (prueba de legibilidad de Flesch-Kincaid)
+  - Medidas de similitud de textos
+  - Medidas de consenso y disidencia
+3. Análisis de regresión sobre la regla de Taylor
 
 ## Datos
 
-Texto.
-
-# Literatura
-
-Texto.
-
+- Datos macroeconómicos
+- Comunicados de política monetaria
+- Minutas de política monetaria
+- Transcripciones de politica monetaria
+- Reporte de inflación
+- Conferencias de prensa
+- Audiencias del congreso
+- Entrevistas y discursos
+- Informes técnicos y documentos de investigación

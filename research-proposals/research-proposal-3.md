@@ -20,7 +20,7 @@ Compare results between $k$-means and mixtures of gaussian distributions for cor
 
 #### Data
 
-This part may be complicated in terms of requesting local (state-level) data to distinct (and possibly colluded) governments.
+This part may be complicated in requesting local (state-level) data to distinct (and possibly colluded) governments.
 
 #### Inspired By
 
